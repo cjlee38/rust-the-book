@@ -1,9 +1,13 @@
 # rust the-book
 
-[reference](https://rinthel.github.io/rust-lang-book-ko/foreword.html)  
-[original](https://doc.rust-lang.org/book/)
+> [reference](https://rinthel.github.io/rust-lang-book-ko/foreword.html)  
+> [original](https://doc.rust-lang.org/book/)
 
-- step1 : installation
-- step2 : guessing_game
-- step3 : variables
-- 
+# steps
+
+| step             | subject       |
+|------------------|---------------|
+| [step1](./step1) | installation  |
+| [step2](./step2) | guessing_game |
+| [step3](./step3) | variables     |
+| [step4](./step4) | ownership     | 
