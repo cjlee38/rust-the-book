@@ -77,7 +77,7 @@ fn function() {
         println!("a = {}", a);
         println!("b = {}", b);
     }
-    
+
     argument(1, 2);
     returnfun();
 }
