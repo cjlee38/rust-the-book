@@ -11,3 +11,7 @@
 | [step2](./step2) | guessing_game |
 | [step3](./step3) | variables     |
 | [step4](./step4) | ownership     | 
+
+
+## 
+- `cargo new ${module} --bin`

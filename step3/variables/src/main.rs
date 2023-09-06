@@ -84,7 +84,7 @@ fn function() {
 
 fn control_statements() {
     let number = 1;
-    let other = if number == 1 { 1 } else { 2 }; // type must be same.
+    let other = if number == 1 { 1 } else {  }; // type must be same.
     // if 1 { println!("hello") } // only boolean allowed
 
     loop { // infinite loop
